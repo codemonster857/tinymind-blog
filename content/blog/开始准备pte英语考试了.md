@@ -3,6 +3,7 @@ title: 开始准备PTE英语考试了
 date: 2024-11-02T13:01:40.911Z
 ---
 
+
 有去澳洲的想法，PTE 是一个标准化考试，更偏向应试一点，短时间学习也能拿到不错的分数，就选它了。
 
 PTE 和雅思的分数对照：
@@ -54,3 +55,5 @@ PTE 和雅思的分数对照：
 把听到的一句话写出来。萤火虫app 周预测
 
 ![](https://img.jasonleehere.com/202411022101897.png)
+
+教程来源：https://www.bilibili.com/video/BV1t84y1m7mh
