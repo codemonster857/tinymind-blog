@@ -6,6 +6,7 @@ date: 2024-11-02T13:01:40.911Z
 
 
 
+
 有去澳洲的想法，PTE 是一个标准化考试，更偏向应试一点，短时间学习也能拿到不错的分数，就选它了。
 
 PTE 和雅思的分数对照：
@@ -64,6 +65,10 @@ In a nutshell, while there are many strong arguments on both sides, I still firm
 ### WFD
 
 把听到的一句话写出来。萤火虫app 周预测
+
+### HIW
+
+听录音，把文本中不对的词标注出来。选错会倒扣分，所以不确定的不要选。
 
 ![](https://img.jasonleehere.com/202411022101897.png)
 
