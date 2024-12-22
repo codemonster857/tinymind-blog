@@ -14,7 +14,7 @@ PTE 和雅思的分数对照：
 
 题型分数：
 
-![e85c363ff160b095b69256e86d70638.jpg](https://img.jasonleehere.com/e85c363ff160b095b69256e86d70638.jpg)
+![](https://img.jasonleehere.com/202412221951446.png)
 
 ## 口语
 
