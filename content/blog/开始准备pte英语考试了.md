@@ -5,11 +5,16 @@ date: 2024-11-02T13:01:40.911Z
 
 
 
+
 有去澳洲的想法，PTE 是一个标准化考试，更偏向应试一点，短时间学习也能拿到不错的分数，就选它了。
 
 PTE 和雅思的分数对照：
 
 ![](https://img.jasonleehere.com/202411012218259.png)
+
+题型分数：
+
+![e85c363ff160b095b69256e86d70638.jpg](https://img.jasonleehere.com/e85c363ff160b095b69256e86d70638.jpg)
 
 ## 口语
 
