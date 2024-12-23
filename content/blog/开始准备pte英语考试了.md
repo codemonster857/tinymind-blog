@@ -10,6 +10,7 @@ date: 2024-11-02T13:01:40.911Z
 
 
 
+
 有去澳洲的想法，PTE 是一个标准化考试，更偏向应试一点，短时间学习也能拿到不错的分数，就选它了。
 
 PTE 和雅思的分数对照：
@@ -41,7 +42,7 @@ RL模板：
 - The talk was about air pollution. 
 - The speaker first mentioned changes in air pollution. 
 - And then, the speaker has explained air pollution is visible with smogs. 
-- Followed by that, in the lecture, the speaker mentioned smog in London caused death.
+- Following by that, in the lecture, the speaker mentioned smog in London caused death.
 - In the end, the speaker said that the source of pollution is cars and lorries
 
 ### ASQ
