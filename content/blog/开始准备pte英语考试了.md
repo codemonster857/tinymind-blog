@@ -11,6 +11,7 @@ date: 2024-11-02T13:01:40.911Z
 
 
 
+
 有去澳洲的想法，PTE 是一个标准化考试，更偏向应试一点，短时间学习也能拿到不错的分数，就选它了。
 
 PTE 和雅思的分数对照：
@@ -75,7 +76,7 @@ In a nutshell, while there are many strong arguments on both sides, I still firm
 
 ### SST
 
-小红书上搜SST答题方法（飞凡）
+用RL的模板。
 
 ### WFD
 
