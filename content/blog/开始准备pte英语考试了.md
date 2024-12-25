@@ -3,15 +3,6 @@ title: 开始准备PTE英语考试了
 date: 2024-11-02T13:01:40.911Z
 ---
 
-
-
-
-
-
-
-
-
-
 有去澳洲的想法，PTE 是一个标准化考试，更偏向应试一点，短时间学习也能拿到不错的分数，就选它了。
 
 PTE 和雅思的分数对照：
@@ -36,9 +27,28 @@ PTE 和雅思的分数对照：
 
 ### DI / RL
 
+#### DI 模板
+
+数据/图片题：
+
+- This images shows us ...
+- From the image, it can be seen that ...
+- Based on the image, it can be seen that ...
+- According to the image, it can be seen that ...
+- In summary, this image shows us ...
+
+流程题：
+
+- This images shows us ...
+- The first step is …
+- Moving on, the second step is ...
+- Furthermore, the third step is ...
+- In summary, this image shows us ...
+
+
 看图描述 / 总结演讲。都是捕捉关键词，然后套模板。
 
-RL模板：
+#### RL 模板：
 
 - The talk was about air pollution. 
 - The speaker first mentioned changes in air pollution. 
