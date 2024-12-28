@@ -4,6 +4,7 @@ date: 2024-11-02T13:01:40.911Z
 ---
 
 
+
 有去澳洲的想法，PTE 是一个标准化考试，更偏向应试一点，短时间学习也能拿到不错的分数，就选它了。
 
 PTE 和雅思的分数对照：
@@ -75,7 +76,7 @@ RL技巧：捕捉关键词，造短语。比如关键词是system，主题词是
 
 Nowadays, many headlines hit the newspaper on the topic of sports salaries. The issue has sparked a huge debate on whether sports salaries are too high. From my own point of view, I believe that sports salaries are not high.
 
-On the one hand, there are numerous solid reasons why sports salaries are not high. Such as sport is becoming more and more popular and more and more organized. Although potentially positive impacts of sports high salaries should be taken into account, I still reckon that sports salary has, in many ways, enormously enriched people's lives. For instance, a well-known American scientist once said that the sports salary is not high, and could make our lives more efficient.
+On the one hand, there are numerous solid reasons why sports salaries are not high. Such as sport is becoming more and more popular and more and more organized. Although potentially positive impacts of sports high salaries should be taken into account, I still reckon that sports salary has, in many ways, enormously enriched people's lives. For instance, a well-known American scientist once said that sports salaries are not high, and could make our lives more efficient.
 
 On the other hand, those who argue against sports salaries have a different opinion. In the first place, it can be claimed that sports salary is important. In the second place, as far as society is concerned, the ultimate aim of society is to shape young people into responsible people in the future. As a result, local governments and international organizations should make a joint effort to make sure that this situation will develop in the right direction.
 
