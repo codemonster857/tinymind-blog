@@ -8,6 +8,7 @@ date: 2024-11-02T13:01:40.911Z
 
 
 
+
 有去澳洲的想法，PTE 是一个标准化考试，更偏向应试一点，短时间学习也能拿到不错的分数，就选它了。
 
 PTE 和雅思的分数对照：
@@ -38,13 +39,23 @@ PTE 和雅思的分数对照：
 
 #### DI 模板
 
-数据/图片题：
+图片题：
 
 - This images shows us ...
 - From the image, it can be seen that ...
 - Based on the image, it can be seen that ...
 - According to the image, it can be seen that ...
 - In summary, this image shows us ...
+
+数据题:
+
+- This images shows us ...
+- From the image, the value of ... is around ... (注意这个around，只要说出大概数字，小数点什么的不要了，可以精简好多！）
+- Based on the image, the value of ... is around ... 
+- According to the image, the lowest value is found in xxx（点）, which is xxx(值）
+- In summary, this image shows us ...
+
+另外，如果数据有多条线，也只抓住一条线描述！标题太长的话，节选，不然会影响后面速度。
 
 流程题：
 
